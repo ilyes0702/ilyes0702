@@ -1,6 +1,10 @@
 ## Hi there, I'm Ilyes 👋
 
+😁 Welcome to my GitHub profile!
+🔧 My GitHub presence and repositories are currently under construction.
+
 ### About Me
+
 
 
 <!--
